@@ -1,0 +1,11 @@
+# Project exclude paths
+/SpringBootJpaHibernate/target/
+/SpringBootMicroservices/ConfigServer/target/
+/SpringBootMicroservices/EurekaServer/target/
+/SpringBootMicroservices/GatewayService/target/
+/SpringBootMicroservices/TicketService/target/
+/SpringBootMicroservices/UserService/target/
+/SpringBootSecurity/JWT/target/
+/SpringBootSecurity/Oauth2/target/
+/SpringBootTools/ActiveMq/target/
+/SpringBootTools/ActuatorLogging/target/

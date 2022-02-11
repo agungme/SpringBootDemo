@@ -1,0 +1,23 @@
+version: '3.6'
+services:
+  EurekaServer:
+    image: eureka_erver_image
+    networks:
+      - SpringBoot
+  UserService:
+    image: user_service_image
+    networks:
+      - SpringBoot
+    depends_on:
+      - TicketService
+  TicketService:
+    image: ticket_service_image
+    networks:
+      - SpringBoot
+  GatewayService:
+    image: gateway_service_image
+    networks:
+      - SpringBoot
+networks:
+  SpringBoot:
+    driver: bridge

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringMicroservices/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMicroservices/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Client/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudDiscovery/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringJpaHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootTools/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootJpaHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootMicroservices/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootOtherTools/activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootOtherTools/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootOtherTools/ActiveMq/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

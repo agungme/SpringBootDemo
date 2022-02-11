@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringBootJpaHibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootJpaHibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootJpaHibernate/target/generated-sources/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/ConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/ConfigServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/EurekaServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/GatewayService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/GatewayService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/TicketService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/TicketService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/UserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/UserService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootMicroservices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurity/JWT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurity/JWT/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurity/Oauth2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurity/Oauth2/src/main/java.com.springboot.oauth2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSecurity/Oauth2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootTools/ActiveMq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootTools/ActiveMq2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootTools/ActiveMq2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootTools/ActuatorLogging/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+@startuml
+
+Class User{
+    - long id;
+	- String username;
+    - String password;
+    - String firstname;
+    - String lastname;
+    - String email;
+    - int age;
+    - boolean status;
+    + GetUsers;
+
+}
+@enduml

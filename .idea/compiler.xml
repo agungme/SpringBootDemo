@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="UserService" />
+        <module name="JWT" />
+        <module name="Oauth2" />
+        <module name="ConfigServer" />
+        <module name="TicketService" />
+        <module name="ActuatorLogging" />
+        <module name="ActiveMq" />
+        <module name="demo" />
+        <module name="GatewayService" />
+      </profile>
+      <profile name="Annotation profile for SpringJpaHibernate" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.4.0.Final/mapstruct-processor-1.4.0.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.4.0.Final/mapstruct-1.4.0.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="SpringBootJpaHibernate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ActiveMq" target="1.8" />
+      <module name="ActiveMq2" target="1.8" />
+      <module name="ActuatorLogging" target="1.8" />
+      <module name="ConfigServer" target="1.8" />
+      <module name="EurekaServer" target="1.8" />
+      <module name="GatewayService" target="1.8" />
+      <module name="JWT" target="1.8" />
+      <module name="Oauth2" target="1.8" />
+      <module name="SpringBootJpaHibernate" target="1.8" />
+      <module name="SpringBootMicroservices" target="1.8" />
+      <module name="SpringBootSecurity" target="1.5" />
+      <module name="SpringBootTools" target="1.5" />
+      <module name="SpringSecurity (1) (org.springframework.boot)" target="1.8" />
+      <module name="SpringSecurity2" target="1.8" />
+      <module name="TicketService" target="1.8" />
+      <module name="UserService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ActiveMq" options="-parameters" />
+      <module name="ActiveMq2" options="-parameters" />
+      <module name="ActuatorLogging" options="-parameters" />
+      <module name="ConfigServer" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="GatewayService" options="-parameters" />
+      <module name="JWT" options="-parameters" />
+      <module name="Oauth2" options="-parameters" />
+      <module name="SpringBootJpaHibernate" options="-parameters" />
+      <module name="SpringBootMicroservices" options="" />
+      <module name="SpringSecurity (1) (org.springframework.boot)" options="-parameters" />
+      <module name="SpringSecurity2" options="-parameters" />
+      <module name="TicketService" options="-parameters" />
+      <module name="UserService" options="-parameters" />
+    </option>
+  </component>
+</project>

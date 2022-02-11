@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBootOtherTools/ActiveMq/ActiveMq.iml" filepath="$PROJECT_DIR$/SpringBootOtherTools/ActiveMq/ActiveMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootTools/ActuatorLogging.iml" filepath="$PROJECT_DIR$/SpringBootTools/ActuatorLogging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices/GatewayService/GatewayService.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices/GatewayService/GatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSecurity/JWT/JWT.iml" filepath="$PROJECT_DIR$/SpringBootSecurity/JWT/JWT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSecurity/Oauth2/Oauth2.iml" filepath="$PROJECT_DIR$/SpringBootSecurity/Oauth2/Oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootJpaHibernate/SpringBootJpaHibernate.iml" filepath="$PROJECT_DIR$/SpringBootJpaHibernate/SpringBootJpaHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices/SpringBootMicroservices.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices/SpringBootMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSecurity/SpringBootSecurity.iml" filepath="$PROJECT_DIR$/SpringBootSecurity/SpringBootSecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootOtherTools/SpringBootTools.iml" filepath="$PROJECT_DIR$/SpringBootOtherTools/SpringBootTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices/TicketService/TicketService.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices/TicketService/TicketService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices/UserService/UserService.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices/UserService/UserService.iml" />
+    </modules>
+  </component>
+</project>
